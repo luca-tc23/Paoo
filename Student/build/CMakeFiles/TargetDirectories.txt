@@ -1,0 +1,3 @@
+/home/lucatc23/Documents/tema1paoo/Paoo/Student/build/CMakeFiles/Student.dir
+/home/lucatc23/Documents/tema1paoo/Paoo/Student/build/CMakeFiles/edit_cache.dir
+/home/lucatc23/Documents/tema1paoo/Paoo/Student/build/CMakeFiles/rebuild_cache.dir

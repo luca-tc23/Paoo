@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/paoo2.dir/main.cpp.o CMakeFiles/paoo2.dir/Contact.cpp.o -o paoo2 

@@ -1,0 +1,3 @@
+/home/lucatc23/Documents/paoo2/build/CMakeFiles/paoo2.dir
+/home/lucatc23/Documents/paoo2/build/CMakeFiles/edit_cache.dir
+/home/lucatc23/Documents/paoo2/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/lucatc23/Documents/PersonalBudget/build/CMakeFiles/personal_budget.dir
+/home/lucatc23/Documents/PersonalBudget/build/CMakeFiles/edit_cache.dir
+/home/lucatc23/Documents/PersonalBudget/build/CMakeFiles/rebuild_cache.dir

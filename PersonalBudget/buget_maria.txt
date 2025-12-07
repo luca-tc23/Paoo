@@ -1,0 +1,4 @@
+Owner: Maria
+Limit lunar: 2500 RON
+Cheltuit: 1610 RON
+Ramas: 890 RON
